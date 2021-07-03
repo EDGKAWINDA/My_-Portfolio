@@ -1,0 +1,34 @@
+
+body{
+     background-color:#EAE7DC;"
+}
+
+h1{
+  color: #E98074;  
+}
+
+h3{
+    color: #273e57;
+}
+
+p,label,tr{
+    color:#123C69;  
+}
+
+hr{
+    /* border: dotted;
+    width: 100px;
+    height:20px;
+    border-color:#E98074;
+    border-bottom: none;
+    border-left:none;
+    border-right: none;
+    border-width: 5px; */
+
+    width: 100px;
+    border:none;
+    border-top: dotted;
+    border-color:#E98074;
+    border-width: 5px;
+
+}
